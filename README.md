@@ -1,4 +1,4 @@
-# iamge-to-cartoonized-image
+# image-to-cartoonized-image
 This Python project leverages the power of OpenCV to transform real-world images into stylized cartoons. By applying techniques such as color quantization, edge detection, and smoothing, the application effectively captures the essence of the original image while imparting a unique cartoonish aesthetic.
 
 Key Features:
